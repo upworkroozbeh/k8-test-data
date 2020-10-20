@@ -99,7 +99,11 @@ Note :  http://contagiodump.blogspot.com/ in above public reference not implemen
 
 ## Run
 
+docker-compose:
 `docker-compose up`
+
+k8s:
+`kubectl apply k8s-deployments/*`
 
 ## Run security check
 
